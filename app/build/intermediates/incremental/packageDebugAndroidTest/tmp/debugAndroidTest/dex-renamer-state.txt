@@ -1,4 +1,4 @@
-#Mon Apr 04 22:58:36 WIB 2022
+#Mon Apr 04 23:08:18 WIB 2022
 base.1=/Users/elr/Downloads/android-basics-kotlin-dogglers-app-main/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
 path.1=classes.dex
 base.0=/Users/elr/Downloads/android-basics-kotlin-dogglers-app-main/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
